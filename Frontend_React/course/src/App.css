@@ -1,0 +1,51 @@
+.img{
+    width:60px;
+    height:60px;
+}
+
+.headerCarousel{
+    max-width: 900px;
+}
+
+.carouselItem{
+    max-width: 900px;
+}
+
+/* course */
+.CourseContainer{
+    max-width: 600px;
+}
+
+/* Architecture  Content */
+.ArchContent1{
+    max-width: 600px;
+}
+
+/* CategoryNavbr */
+.CategoryNavbar{
+    max-width: 900px;
+}
+
+/* CategoryBusiness */
+.CategoryBusiness{
+    max-width: 600px;
+}
+
+/* design-course */
+.bg1{
+    max-width: 600px;
+
+}
+
+.bg2{
+    width: 60px; 
+    height: 60px;
+}
+
+.bg3{
+    width: 60px; 
+    height: 60px;
+}
+
+
+

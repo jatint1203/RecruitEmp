@@ -1,0 +1,180 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+
+/* My css */
+
+
+.candhiring-font{
+
+  min-height: 400px;
+}
+
+.candidhiringobject {
+
+  object-fit: cover;
+
+}
+
+
+.candidhiringcolor {
+
+color: #4831f3;
+
+}
+
+/* My css */
+
+
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.logo{
+  height: 60px;
+  width: 60px;
+}
+
+.search{
+  padding: 35px;
+}
+
+.carousel1{
+  background: rgba(43, 57, 64, .5);
+}
+
+.abouth1{
+  color: #0000ff;
+}
+
+.aboutapplyh1{
+  color: #F3AC31;
+}
+
+.aboutElementdiv{
+  cursor : pointer
+}
+
+.joblist{
+  width: 80px; 
+  height: 80px;
+}
+
+.jobdetail{
+  width: 80px; 
+  height: 80px;
+}
+
+.getjobcontent{
+  padding: 35px;
+}
+
+.getjobcontent_apply{
+  padding: 40px;
+}
+
+.login{
+  border: 1px solid grey;
+  border-radius: 10px; 
+  background-color: #f0faff;
+}
+
+.login1{
+  color: green;
+}
+
+.carousel{
+  opacity: 0.85;
+}
+
+
+/* Signup */
+.signup1{
+  border: 1px solid grey;
+  border-radius: 10px; 
+  background-color: #f0faff;
+}
+
+.signup2{
+  color: green;
+}
+
+.usernavbar1{
+  width:60px;
+  height:60px;
+}
+
+.usernavbar2{
+  color: green
+}
+/* Change password css */
+input{
+  border-radius: 5px;
+}
+input2{
+  padding: 5px 10px; 
+  margin-top: 5px;
+font-size: medium;
+  border-radius: 5px;
+}
+
+/* Change email */
+email{
+  border-radius: 5px;
+}
+
+email2{
+  padding: 5px 10px;
+  margin-top: 5px;
+  font-size: medium;
+  border-radius: 5px;
+}
+/* delete account*/
+map{
+  height: 100px
+}
+map2{
+  padding: 5px 10px; 
+  margin-top: 5px;
+  font-size:medium; 
+  border-radius: 5px;
+
+}
+
+.trackAppButton{
+  border-radius: 6px;
+}
